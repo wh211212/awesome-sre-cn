@@ -1,8 +1,9 @@
 # Awesome 网站可靠性工程  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 [<img src="awesome-sre-logo.svg" align="right" width="100">](https://dastergon.gr/awesome-sre)
 
-
 精选的站点[可靠性](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和[生产工程](https://www.usenix.org/conference/srecon15/program/presentation/canahuati)资源列表。
+
 
 #### 什么是站点可靠性工程？
 > “从根本上说，当您要求软件工程师设计操作功能时，就会发生这种情况。” -Ben Treynor Sloss，Google工程副总裁，Google SRE创始人
