@@ -30,7 +30,7 @@
 - [推特](#twitter)
 - [SRE工具](#sre-tools)
 
-## Culture
+## 文化
 * [什么是站点可靠性工程？](https://landing.google.com/sre/interview/ben-treynor.html)
 * [KBen Treynor撰写的SRE关键点](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 * [谷歌SRE资源](https://landing.google.com/sre/resources.html)
@@ -123,7 +123,7 @@
 * [银行业的SRE](https://www.infoq.com/presentations/ing-sre-teams-practices/)
 * [使用SRE原理识别和跟踪工作](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
 
-## Education
+## 教育
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
 * [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
 * [New to an SRE team?](https://web.archive.org/web/20181229031420/http://anthonycaiafa.com/2016/04/27/new-to-a-team/)
