@@ -29,6 +29,7 @@
 - [会议](#conferences--meetups)
 - [推特](#twitter)
 - [SRE工具](#sre-tools)
+- [SRE干货](#sre-ppt)
 
 ## 文化
 * [什么是站点可靠性工程？](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -475,3 +476,7 @@
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
+
+## SRE 干货
+
+* [Google运维揭密](https://github.com/wh211212/awesome-sre-cn/blob/master/ppt/4.%E5%AD%99%E5%AE%87%E8%81%AA-SRE%EF%BC%9AGoogle%E8%BF%90%E7%BB%B4%E6%8F%AD%E5%AF%86.pdf)
